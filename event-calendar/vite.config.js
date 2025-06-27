@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import path from 'path'
 
 export default defineConfig({
-  base: '/event-calendar/',
+  base: '/Event/',
   plugins: [react()],
   resolve: {
     alias: {

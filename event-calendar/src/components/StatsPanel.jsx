@@ -1,4 +1,4 @@
-"use client"
+
 
 export default function StatsPanel({ events, darkMode }) {
   const totalEvents = events.length

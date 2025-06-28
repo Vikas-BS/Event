@@ -1,5 +1,3 @@
-"use client"
-
 import { useState } from "react"
 import EventItem from "./EventItem"
 import { getDaysInMonth, getFirstDayOfMonth, isSameDay, addMonths, subMonths } from "../utils/dateUtils"

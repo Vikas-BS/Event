@@ -1,4 +1,4 @@
-"use client"
+
 
 export default function SettingsModal({ isOpen, onClose, settings, setSettings }) {
   if (!isOpen) return null

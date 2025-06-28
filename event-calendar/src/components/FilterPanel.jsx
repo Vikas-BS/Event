@@ -1,4 +1,4 @@
-"use client"
+
 
 export default function FilterPanel({ filters, setFilters, events }) {
   const categories = [

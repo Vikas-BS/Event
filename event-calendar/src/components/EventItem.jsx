@@ -1,5 +1,3 @@
-"use client"
-
 export default function EventItem({ event, onClick, onDragStart, onDragEnd, onToggleComplete, compact = true }) {
   const getEventColor = (category) => {
     const colors = {

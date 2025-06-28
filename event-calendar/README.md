@@ -24,8 +24,12 @@ A modern, responsive, and fully-featured Event Calendar built with **React.js**,
 - **State Management:** useState, useEffect
 
 ---
+## Deyloyed Link
+https://event-xgks.vercel.app/
 
-## 📦 Installation
+
+## 📦 Installation 
+
 
 ```bash
 git clone https://github.com/yourusername/event-calendar.git
